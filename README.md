@@ -17,7 +17,7 @@ A simple React + Tailwind app for searching books by title using the **Open Libr
 ---
 
 ## 🛠️ Tech Stack
-- React + Vite
+- React 
 - Open Library API: `https://openlibrary.org/search.json?title={bookTitle}`
 
 ---
@@ -26,3 +26,4 @@ A simple React + Tailwind app for searching books by title using the **Open Libr
 ```bash
 npm install
 npm run dev
+
